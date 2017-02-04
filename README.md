@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# Rock_Paper_Scissors_Game
 A basic rock paper and scissors game in python
 - Here we create 2 global players and get inputs from them.
 - We initialize the menu function that gives us the options to start the game, Change player name and quit the game.
